@@ -2,7 +2,7 @@
 
 ## Sobre a pessoa aqui:
 
-Atuais 29 anos, sou formado em T.I
+Atuais 31 anos, sou formado em T.I
 
 - 🔭 Trabalho na área tem 13 anos.
 - 🏘️ São Paulo / SP - Brasil.
