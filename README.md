@@ -11,20 +11,25 @@ Atuais 31 anos, sou formado em T.I
 - 🕹️ Amante de Games, Tecnologia e Nerdices 🤓
 - 🥊​🥋👫 Amo esportes, minha família e ficar em casa 😁
 
-### ​Conhecimento:
+### ​Vamos falar sobre:
 
 <p align="left">
   <img src="https://img.icons8.com/color/96/000000/microsoft-sql-server.png" width="38" height="38" />
   <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" width="38" height="38" />
   <img src="https://img.icons8.com/color/144/000000/ms-project.png" width="38" height="38" />
   <img src="https://img.icons8.com/external-flatarticons-blue-flatarticons/65/000000/external-agile-web-design-and-development-flatarticons-blue-flatarticons.png" width="38" height="38" />
-   <img src="https://img.icons8.com/color/144/000000/power-bi.png" width="38" height="38"/>
+  <img src="https://img.icons8.com/color/144/000000/power-bi.png" width="38" height="38"/>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="38" height="38"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="38" height="38">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="38" height="38">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" width="38" height="38"/>
+  <img src="https://img.icons8.com/color/144/000000/bootstrap.png" width="38" height="38"/>
 </p>
 
 ### ​Estudando:
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="38" height="38"/>
+  <img src="https://icons8.com/icon/QfcwKxmbyaYg/business"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="38" height="38">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="38" height="38">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" width="38" height="38"/>
