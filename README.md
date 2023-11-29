@@ -33,7 +33,7 @@ Atuais 29 anos, sou formado em T.I
        
 ### Social
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-luis-056a8a4b/)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-cavalcante-056a8a4b/)
 
 ### Email
 <img src="https://img.icons8.com/color/144/000000/ms-outlook.png" width="38" height="38"/> Brunoluiz_2210@hotmail.com
