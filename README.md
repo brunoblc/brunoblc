@@ -4,10 +4,10 @@
 
 Atuais 29 anos, sou formado em T.I
 
-- 🔭 Trabalho como Pré Vendas em uma multinacional - (<i>Pre Sales Consulting Engineer</i>)
+- 🔭 Trabalho na área tem 13 anos.
 - 🏘️ São Paulo / SP - Brasil.
-- 🧠 Estudante de Frontend na [Origamid](https://www.origamid.com/), na [Alura](https://www.alura.com.br/) e na [DIO](https://www.dio.me/).
-- 💻 Busco oportunidades na área de Web - Front End.
+- 🧠 Estudante de Frontend.
+- 💻 Um dos prazeres da vida é estudar.
 - 🕹️ Amante de Games, Tecnologia e Nerdices 🤓
 - 🥊​🥋👫 Amo esportes, minha família e ficar em casa 😁
 
