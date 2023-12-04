@@ -29,7 +29,7 @@ Atuais 31 anos, sou formado em T.I
 ### ​Estudando:
 
 <p align="left">
-  <img src="[https://icons8.com/icon/QfcwKxmbyaYg/business](https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg)"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="38" height="38">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="38" height="38">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" width="38" height="38"/>
