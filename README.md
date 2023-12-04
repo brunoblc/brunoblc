@@ -3,6 +3,7 @@
 ## Sobre a pessoa aqui:
 
 Atuais 31 anos, sou formado em T.I
+Trabalho como especialista de T.I na Mazzatech. 
 
 - 🔭 Trabalho na área tem 13 anos.
 - 🏘️ São Paulo / SP - Brasil.
@@ -22,7 +23,6 @@ Atuais 31 anos, sou formado em T.I
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="38" height="38"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="38" height="38">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="38" height="38">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" width="38" height="38"/>
   <img src="https://img.icons8.com/color/144/000000/bootstrap.png" width="38" height="38"/>
 </p>
 
@@ -30,10 +30,12 @@ Atuais 31 anos, sou formado em T.I
 
 <p align="left">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" width="38" height="38" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="38" height="38">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="38" height="38">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" width="38" height="38">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Sass.svg" width="38" height="38">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" width="38" height="38"/>
-  <img src="https://img.icons8.com/color/144/000000/bootstrap.png" width="38" height="38"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" width="38" height="38"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JQuery.svg" width="38" height="38"/> 
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" width="38" height="38"/> 
 </p>
        
 ### Social
