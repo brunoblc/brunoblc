@@ -26,13 +26,13 @@ Trabalho com soluções de tecnologia.
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="38" height="38"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="38" height="38">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="38" height="38">
-  <img src="https://img.icons8.com/color/144/000000/bootstrap.png" width="38" height="38"/>
+  <img src="https://img.icons8.com/color/144/000000/bootstrap.png" width="38" height="38"/>  
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" width="38" height="38" />
 </p>
 
 ### ​Estudando:
 
 <p align="left">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" width="38" height="38" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" width="38" height="38">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Sass.svg" width="38" height="38">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" width="38" height="38"/>
