@@ -28,6 +28,7 @@ Trabalho com soluções de tecnologia.
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="38" height="38">
   <img src="https://img.icons8.com/color/144/000000/bootstrap.png" width="38" height="38"/>  
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" width="38" height="38" />
+  <img src="https://img.icons8.com/?size=100&id=UFXRpPFebwa2&format=png&color=000000" width="38" height="38" />
 </p>
 
 ### ​Estudando:
