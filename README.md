@@ -2,12 +2,15 @@
 
 ## Sobre a pessoa aqui:
 
-Atuais 31 anos, sou formado em T.I
-Trabalho como especialista de T.I na Mazzatech. 
+Atuais 31 anos, 
+Formado em T.I
+Pós em Gestão de Projetos
+MBA em Gestão de Projetos Agéis 
+Trabalho com soluções de tecnologia. 
 
-- 🔭 Trabalho na área tem 13 anos.
+- 🔭 Trabalho na área tem 14 anos.
 - 🏘️ São Paulo / SP - Brasil.
-- 🧠 Estudante de Frontend.
+- 🧠 Frontend e B.I são paixões.
 - 💻 Um dos prazeres da vida é estudar.
 - 🕹️ Amante de Games, Tecnologia e Nerdices 🤓
 - 🥊​🥋👫 Amo esportes, minha família e ficar em casa 😁
